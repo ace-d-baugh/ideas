@@ -25,8 +25,9 @@ This repository contains all of Ace Baugh's project ideas and concepts. Organize
   - Ideas.txt with design concepts
 - **States Of Confusion** - Geography-based products
   - Basic PRD structure in place
-- **Sonic Smarties** - (New product idea)
-  - Basic PRD structure in place
+- **Sonic Smarties** - Doctor Who themed candy dispenser
+  - PEZ-like dispenser that holds and dispenses American Smarties candies
+  - 3D printed to look like a Sonic Screwdriver
 
 ### Businesses
 - **PreachByProducts** - Religious merchandise
@@ -39,13 +40,16 @@ This repository contains all of Ace Baugh's project ideas and concepts. Organize
   - Basic PRD structure in place
 
 ### Apps
-- **GURGI** - (Project name)
-  - Comprehensive database design (604 lines)
-  - Design documents and AI conversation history
-- **D'VINS** - Wine/drink app
-  - Business Requirements Document (163 lines)
-  - Design specifications (237 lines)
-  - Old notes and concepts (74 lines)
+- **GURGI** - Guest Unit Ride Grouper Interface
+  - Comprehensive database design (604 lines) with Disney ride data
+  - Web app for training Disney cast members to group guests efficiently
+  - Detailed user stories, database schema, and game mechanics
+- **D'VINS** - Disney Very Important Notification System
+  - Business Requirements Document (163 lines) for real-time wait time app
+  - Cross-platform mobile app for iOS/Android using React Native
+  - Retrieves data from Queue-Times API every 5 minutes
+  - Features: sorting, favorites, push notifications, trend indicators
+  - Complete design specifications (237 lines) with Disney-inspired UI
 - **You Team** - Team collaboration app
   - Basic PRD structure in place
 - **ProConList** - Decision making tool
@@ -55,7 +59,7 @@ This repository contains all of Ace Baugh's project ideas and concepts. Organize
 - **Bottle Sound** - Sound/music app
   - Basic PRD structure in place
 - **Art Techo Designer** - Art/technical design tool
-  - Basic PRD structure in place
+  - Project completed, removed from active ideas
 
 ## Development Status
 
@@ -72,12 +76,40 @@ This repository contains all of Ace Baugh's project ideas and concepts. Organize
 ### Basic Structure
 - All other projects have PRD structure in place, ready for content
 
+## Project Details
+
+### D'VINS - Disney Very Important Notification System
+**Purpose:** Cross-platform mobile app for iOS/Android that provides real-time wait times for Walt Disney World attractions
+**Tech Stack:** React Native, Node.js, Express, SQLite, Firebase Cloud Messaging
+**Key Features:**
+- Real-time wait time data from Queue-Times API (updated every 5 minutes)
+- Sorting by park, favorites, alphabetical order, or wait times
+- Push notifications for user-defined wait time thresholds (0-90 minutes)
+- Trend indicators (green upward-right arrow for increasing, red downward-right for decreasing)
+- Downtime counters for non-operational attractions
+- Disney-inspired UI with purple, blue, and green color scheme
+
+### GURGI - Guest Unit Ride Grouper Interface
+**Purpose:** Web app for training Disney cast members to group guests efficiently onto ride vehicles
+**Tech Stack:** MERN/MEAN stack, MongoDB
+**Key Features:**
+- Comprehensive database with 70+ Disney rides across 4 parks
+- Game mechanics for training guest grouping
+- Timer-based challenges for efficiency
+- Color-coded guest groups (6 colors)
+- Ride creation and customization tools for trainers
+- Admin interface for ride management
+
+### Sonic Smarties
+**Purpose:** 3D printed candy dispenser themed after Doctor Who
+**Description:** PEZ-like dispenser that holds and dispenses American Smarties candies
+**Design:** Looks like a Sonic Screwdriver, 3D printed
+
 ## Questions for Ace
 
-1. **GURGI** - What does "GURGI" stand for? The database design is very detailed but I'm not sure what the app does.
-2. **D'VINS** - Is this a wine tasting app, inventory management, or something else? The BRD is comprehensive but I want to understand the core concept.
-3. **Sonic Smarties** - What kind of product is this? The PRD is basic but I'm curious about the concept.
-4. **Art Techo Designer** - Is this for digital art creation or technical design work?
+1. **GURGI** - Should I start building the database structure first, or focus on the game interface?
+2. **D'VINS** - Do you want to start with the React Native app or the backend API first?
+3. **Sonic Smarties** - Do you have 3D printing capabilities, or should I research manufacturing options?
 
 ## Contributing
 
