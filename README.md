@@ -8,23 +8,27 @@ This repository contains all of Ace Baugh's project ideas and concepts. Organize
 - **WDWShiftX** - Disney shift planning application
   - Comprehensive PRD with 531 lines of detailed requirements
   - Ready for development
-- **Plan Of Salvation** - Religious education platform
-  - Basic PRD structure in place
-- **LDSPrograms.org** - LDS program management
-  - Basic PRD structure in place
-- **KPowerGL.com** - Golf league management
-  - Basic PRD structure in place
+- **Plan Of Salvation** - Interactive religious education platform
+  - Side-scrolling website teaching LDS pre-mortal, mortal, and post-mortal existence
+  - Semi-3D character that moves through the plan with dialog boxes and scriptures
+- **LDSPrograms.org** - LDS program management platform
+  - Central location for creating, hosting, and archiving church programs
+  - QR code scanning for current/previous programs
+- **KPowerGL.com** - Global logistics website redesign
+  - Side-scrolling truck animation to showcase information
+  - Possible logo redesign
 - **Digital Elegance** - Web development portfolio
   - Contains detailed planning documents (898KB Word doc)
   - Fine Art and Fine Code sections with PRDs
 - **Chris Baugh Architect** - Architecture portfolio
-  - Basic PRD structure in place
+  - Modern scrolling effects: napkin drawing → blueprints → CAD → wooden beams → finished house
 
 ### Products
 - **T-Shirts** - Apparel design ideas
   - Ideas.txt with design concepts
-- **States Of Confusion** - Geography-based products
-  - Basic PRD structure in place
+- **States Of Confusion** - Location-based print on demand store
+  - Logos for made-up clubs and groups that make sense in assigned locations
+  - Examples: "surfing club of Mesa, AZ" or "Mountain Climbers of Topeka, KS"
 - **Sonic Smarties** - Doctor Who themed candy dispenser
   - PEZ-like dispenser that holds and dispenses American Smarties candies
   - 3D printed to look like a Sonic Screwdriver
@@ -33,7 +37,7 @@ This repository contains all of Ace Baugh's project ideas and concepts. Organize
 - **PreachByProducts** - Religious merchandise
   - Initial ideas.txt with product concepts
 - **MerryPoppins** - Nanny services platform
-  - AI conversation notes for concept development
+  - AI conversation notes for concept development (PRD.md missing)
 - **BoM Mini Golf** - Book of Mormon themed mini golf
   - Basic PRD structure in place
 - **D2D Web Marketing** - Door-to-door marketing services
@@ -72,44 +76,55 @@ This repository contains all of Ace Baugh's project ideas and concepts. Organize
 - **Digital Elegance** - Detailed planning documents, needs wireframes
 - **MerryPoppins** - Concept development in progress
 - **PreachByProducts** - Initial ideas, needs product selection
+- **Plan Of Salvation** - Clear concept, needs development
+- **LDSPrograms.org** - Clear concept, needs development
 
 ### Basic Structure
 - All other projects have PRD structure in place, ready for content
 
 ## Project Details
 
-### D'VINS - Disney Very Important Notification System
-**Purpose:** Cross-platform mobile app for iOS/Android that provides real-time wait times for Walt Disney World attractions
-**Tech Stack:** React Native, Node.js, Express, SQLite, Firebase Cloud Messaging
-**Key Features:**
-- Real-time wait time data from Queue-Times API (updated every 5 minutes)
-- Sorting by park, favorites, alphabetical order, or wait times
-- Push notifications for user-defined wait time thresholds (0-90 minutes)
-- Trend indicators (green upward-right arrow for increasing, red downward-right for decreasing)
-- Downtime counters for non-operational attractions
-- Disney-inspired UI with purple, blue, and green color scheme
+### MerryPoppins - Nanny Services Platform
+**Status:** Concept development in progress
+**Notes:** AI conversation notes available, PRD.md file missing
+**Concept:** Platform for connecting families with nanny services
 
-### GURGI - Guest Unit Ride Grouper Interface
-**Purpose:** Web app for training Disney cast members to group guests efficiently onto ride vehicles
-**Tech Stack:** MERN/MEAN stack, MongoDB
-**Key Features:**
-- Comprehensive database with 70+ Disney rides across 4 parks
-- Game mechanics for training guest grouping
-- Timer-based challenges for efficiency
-- Color-coded guest groups (6 colors)
-- Ride creation and customization tools for trainers
-- Admin interface for ride management
+### Plan Of Salvation - Interactive Religious Education
+**Purpose:** Side-scrolling website teaching LDS theology
+**Features:**
+- Interactive character that moves through pre-mortal, mortal, and post-mortal existence
+- Dialog boxes with corresponding scriptures
+- Scroll-based navigation in either direction
+- Semi-3D character design
 
-### Sonic Smarties
-**Purpose:** 3D printed candy dispenser themed after Doctor Who
-**Description:** PEZ-like dispenser that holds and dispenses American Smarties candies
-**Design:** Looks like a Sonic Screwdriver, 3D printed
+### LDSPrograms.org - Church Program Management
+**Purpose:** Central platform for LDS program management
+**Features:**
+- Create, update, and delete programs with specified structure
+- QR code scanning for current/previous programs
+- Archiving and hosting capabilities
+
+### KPowerGL.com - Logistics Website Redesign
+**Purpose:** Modern redesign of global logistics website
+**Features:**
+- Side-scrolling truck animation to showcase information
+- Attention-grabbing visual design
+- Possible logo redesign
+
+### States Of Confusion - Location-Based POD Store
+**Purpose:** Print on demand store with location-specific club logos
+**Concept:**
+- Made-up clubs and groups that make sense in assigned locations
+- Examples: "surfing club of Mesa, AZ" or "Mountain Climbers of Topeka, KS"
+- Location-based branding and merchandise
 
 ## Questions for Ace
 
-1. **GURGI** - Should I start building the database structure first, or focus on the game interface?
-2. **D'VINS** - Do you want to start with the React Native app or the backend API first?
-3. **Sonic Smarties** - Do you have 3D printing capabilities, or should I research manufacturing options?
+1. **MerryPoppins** - Should I create the PRD.md file from the AI conversation notes?
+2. **Plan Of Salvation** - Do you have specific scripture references you want included?
+3. **LDSPrograms.org** - What's the specified structure for program components?
+4. **KPowerGL.com** - Do you have specific truck animation concepts?
+5. **States Of Confusion** - Do you have initial location ideas for club concepts?
 
 ## Contributing
 
