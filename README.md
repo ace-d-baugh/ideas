@@ -85,10 +85,10 @@ This repository contains all of Ace Baugh's project ideas and concepts. Organize
 
 ## Project Details
 
-### MerryPoppins - Nanny Services Platform
+### MerryPoppins - Biotech Company
 **Status:** Concept development in progress
-**Notes:** AI conversation notes available, PRD.md file missing
-**Concept:** Platform for connecting families with nanny services
+**Notes:** PRD.md file available with biotech company concept
+**Concept:** Bioengineered colored popcorn kernels that pop in specified color vs. coloring after natural popping
 
 ### Plan Of Salvation - Interactive Religious Education
 **Purpose:** Side-scrolling website teaching LDS theology
@@ -121,7 +121,7 @@ This repository contains all of Ace Baugh's project ideas and concepts. Organize
 
 ## Questions for Ace
 
-1. **MerryPoppins** - Should I create the PRD.md file from the AI conversation notes?
+1. **MerryPoppins** - Should I update the PRD.md file with more biotech company details?
 2. **Plan Of Salvation** - Do you have specific scripture references you want included?
 3. **LDSPrograms.org** - What's the specified structure for program components?
 4. **KPowerGL.com** - Do you have specific truck animation concepts?
