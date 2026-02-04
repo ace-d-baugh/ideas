@@ -36,11 +36,9 @@ This repository contains all of Ace Baugh's project ideas and concepts. Organize
 ### Businesses
 - **PreachByProducts** - Religious merchandise
   - Initial ideas.txt with product concepts
-- **MerryPoppins** - Nanny services platform
-  - Comprehensive PRD with 177 lines of detailed requirements
-  - React Native mobile app with Node.js backend
-  - Monetization through 10-15% booking commissions
-  - Safety-focused with background checks and GPS monitoring
+- **MerryPoppins** - Biotech company
+  - PRD for bioengineered colored popcorn kernels
+  - Leases rights to create proprietary formula for colored popcorn
 - **BoM Mini Golf** - Book of Mormon themed mini golf
   - Basic PRD structure in place
 - **D2D Web Marketing** - Door-to-door marketing services
